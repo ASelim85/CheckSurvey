@@ -1,0 +1,16 @@
+{
+  "depositAmount": 10,
+  "depositCurrency": "EGP",
+  "description": "AxisPay Payroll",
+  "mPin": "123457",
+  "receiverId": "receiverid",
+  "requestTimestamp": "TrxTimeStamp",
+  "orderingAgencyName":"Shop",
+  "orderingAgencyAddress":"Mall o Arabia",
+  "orderingAgencyCountry":"Egypt",
+  "orderingCustomerName":"Sameh Kamel",
+  "orderingCustomerAddress":"Sheikh Zayed",
+  "orderingCustomerIdType":"OrderingCustomerIdType_PASSPORT",
+  "orderingCustomerNationality":"Egyptian",
+  "orderingCustomerBd":"2000-11-02"
+}

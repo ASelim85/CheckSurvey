@@ -1,0 +1,16 @@
+{
+  "clientId": "CLIENTID",
+  "description": "Mother Care Refund",
+  "interchangeAction": "CREDIT",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "senderAddress": "12, Lebanon St.",
+  "senderMerchantId": "811474521",
+  "senderName": "Mother Care",
+  "senderScheme": "Merchant",
+  "transactionCurrency": "EGP",
+  "transactionId": "TRXID",
+  "transactionReference": "123",
+  "transactionTimestamp": "TIMESTMP",
+  "transactionValue": 10
+}

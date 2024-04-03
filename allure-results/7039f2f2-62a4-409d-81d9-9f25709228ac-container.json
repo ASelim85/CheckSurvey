@@ -1,0 +1,1 @@
+{"uuid":"7039f2f2-62a4-409d-81d9-9f25709228ac","name":"Tests.MyKYCDocsTestCases","children":["80402f19-1f4b-4fff-a220-339c56695fc5"],"befores":[],"afters":[{"name":"generateReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1671141905884,"stop":1671141905884}],"start":1671141859171,"stop":1671141905920}

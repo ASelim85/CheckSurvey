@@ -1,0 +1,20 @@
+{
+    "senderScheme":"Vodafone",
+    "clientId":"CLIENTID",
+    "adviceId":"ADVICEID",
+    "transactionTimestamp":"TRXTIMESTMP",
+    "senderAgentId":"456787666",
+    "requestTimestamp":"REQTIMESTMP",
+    "transactionValue":"10",
+    "transactionCurrency":"EGP",
+    "description":"test",
+    "receiverId":"WALLETNUMBER",
+    "interchangeValue":"1",
+    "interchangeCurrency":"EGP",
+    "interchangeAction":"DEBIT",
+    "receiverName":"Omneya Said",
+	"receiverAddress":"test",
+	"responseCode":"00000",
+	"responseDescription":"Success"
+
+}

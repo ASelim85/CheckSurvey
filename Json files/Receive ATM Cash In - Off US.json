@@ -1,0 +1,16 @@
+{
+  "clientId": "CLIENTID",
+  "transactionId": "TRANSID",
+  "senderScheme": "AxisPay",
+  "transactionTimestamp": "reqTimestamp",
+  "currency":"EGP",
+  "value": 10,
+  "description": "Transfer",
+  "senderId": "walletNumber",
+  "interchangeValue": 1,
+  "interchangeCurrency": "EGP",
+  "interchangeAction": "Credit",
+  "transactionReference": "45785",
+  "quickCode": "OTP",
+  "terminalId": "5rdse43w"
+}

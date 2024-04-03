@@ -1,0 +1,17 @@
+{
+  "adviceId": "ADVICEID",
+  "clientId": "CLIENTID",
+  "interchangeAction": "DEBIT",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "meezaOriginalTransactionId": "meezacashouttranid",
+  "receiverAddress": "24, El dokki street",
+  "receiverName": "Hala Aziz",
+  "responseCode": "00000",
+  "responseDescription": "Approved Or Completed Successfully",
+  "senderId": "senderid",
+  "transactionCurrency": "EGP",
+  "transactionDescription": "Gift",
+  "transactionTimestamp": "TrxTimeStamp",
+  "transactionValue": 10
+}

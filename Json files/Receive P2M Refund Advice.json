@@ -1,0 +1,19 @@
+{
+  "adviceId": "ADVICEID",
+  "clientId": "CLIENTID",
+  "description": "Refund TShirt",
+  "interchangeAction": "Credit",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "receiverAddress": "El Sheikh Zayed",
+  "receiverMsisdn": "walletNumber",
+  "receiverName": "Hala Aziz",
+  "responseCode": "00000",
+  "responseDescription": "Success",
+  "senderAddress": "12 Mokattam street",
+  "senderMerchantId": "811474521",
+  "senderName": "Mother Care",
+  "transactionCurrency": "EGP",
+  "transactionTimestamp": "TIMESTMP",
+  "transactionValue": 10.00
+}

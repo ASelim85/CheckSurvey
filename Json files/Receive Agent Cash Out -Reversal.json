@@ -1,0 +1,17 @@
+{
+  "amount": 10,
+  "clientId": "CLIENTID",
+  "currency": "EGP",
+  "description": "test",
+  "interchangeValue":2,
+  "interchangeCurrency":"EGP",
+  "interchangeAction":"DEBIT",
+  "originalTransactionId": "MeezaTransactionId",
+  "receiverId": "WALLETNUMBER",
+  "senderAgentId": "457100001",
+  "senderScheme": "Cashati",
+  "terminalId": "1qaZxsw2",
+  "transactionId": "TRXID",
+  "transactionReference": "12111",
+  "transactionTimestamp": "TRXTIMESTMP"
+}

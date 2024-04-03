@@ -1,0 +1,1 @@
+{"uuid":"2f5a3d50-c255-440d-822d-fd6ae7126d25","name":"Tests.MeezaSettlementReport","children":["64a66595-38b2-4d47-a203-0823f53ccff7"],"befores":[],"afters":[{"name":"generateReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1660748954868,"stop":1660748954869}],"start":1660748929209,"stop":1660748954873}

@@ -1,0 +1,19 @@
+{
+    "senderScheme":"Vodafone",
+    "transactionId":"TRXID",
+    "clientId":"CLIENTID",
+    "transactionTimestamp":"TrxTimeStamp",
+    "senderAgentId":"00201225752298",
+    "requestTimestamp":"RqTimeStamp",
+    "quickCode":"OTP",
+    "transactionValue":"10",
+    "transactionCurrency":"EGP",
+    "description":"test",
+    "receiverId":"WalletNumber",
+    "transactionChannel":"TransactionChannels_AGENT",
+    "transactionReference":"12345",
+    "interchangeValue":"1",
+    "interchangeCurrency":"EGP",
+    "interchangeAction":"DEBIT"
+
+}

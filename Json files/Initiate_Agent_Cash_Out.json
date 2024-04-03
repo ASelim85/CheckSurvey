@@ -1,0 +1,12 @@
+{
+    "requestTimestamp":"TRXTIMESTMP",
+    "mPin":"123457",
+    "transactionAmount":"20",
+    "transactionCurrency":"EGP",
+    "description":"test",
+    "receiverId":"WALLETNUMBER",
+    "transactionChannel":"TransactionChannels_AGENT",
+    "extRefNum":"12345"
+
+}
+b4add9eb-8eac-485e-88b4-20c940335eca

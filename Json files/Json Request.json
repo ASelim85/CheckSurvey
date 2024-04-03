@@ -1,0 +1,18 @@
+{
+  "ATMLatitude": 30.033333,
+  "ATMLongtitude": 31.233334,
+  "ATMTerminalId": "1qasw2",
+  "ATMTerminalLocation": "Cairo",
+  "clientId": "61566083-8B6F-4EC1-9AC6-76C78A3D6EB5",
+  "interchangeAction": "Debit",
+  "interchangeCurrency": "EGP",
+  "meezaTransactionId": "MezzaID",
+  "interchangeValue": 1,
+  "senderScheme": "AxisPay",
+  "senderId":"00201110693883",
+  "transactionCurrency": "EGP",
+  "transactionDescription": "money",
+  "transactionReference": "1435",
+  "transactionTimestamp": "date",
+  "transactionValue": 11
+}

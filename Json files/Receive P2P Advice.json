@@ -1,0 +1,18 @@
+{
+  "adviceId": "ADVICEID",
+  "clientId": "CLIENTID",
+  "interchangeAction": "Credit",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "receiverAddress": "El Sheikh Zayed",
+  "receiverMsisdn":"walletnumber",
+  "receiverName": "Hala Aziz",
+  "responseCode": "00000",
+  "responseDescription": "Approved Or Completed Successfully",
+  "senderMsisdn": "00201006289574",
+  "senderAddress": "24, El dokki street",
+  "senderName": "Mary Safwat",
+  "transactionCurrency": "EGP",
+  "transactionTimestamp": "TrxTimeStamp",
+  "transactionValue": 10
+}

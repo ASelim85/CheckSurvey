@@ -1,0 +1,13 @@
+{
+  "mPin": 123456,
+  "receiverMerchantId": "811474521",
+  "requestTimestamp": "reqTimestamp",
+  "p2mCategory": "SHOP",
+  "reference1":"Reference 1 Value",
+  "tipsAmount": 10.0,
+  "tipsCurrency":"EGP",
+  "transactionAmount": 20.0,
+  "transactionCurrency": "EGP",
+  "transactionDescription": "Gift",
+  "p2mInitiationType":"P2MInitiationType_MANUAL"
+}

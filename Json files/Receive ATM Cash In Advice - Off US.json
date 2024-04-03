@@ -1,0 +1,17 @@
+{
+  "adviceId": "ADVICEID",
+  "clientId": "CLIENTID",
+  "interchangeAction": "Credit",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "meezaOriginalTransactionId": "ATMCashInMmeezaTransactionId",
+  "receiverAddress": "24, El dokki street",
+  "receiverName": "Mohamed Taha Ahmed Aziz",
+  "responseCode": "00000",
+  "responseDescription": "Approved Or Completed Successfully",
+  "senderId": "walletNumber",
+  "transactionCurrency": "EGP",
+  "transactionDescription": "Gift",
+  "transactionTimestamp": "reqTimestamp",
+  "transactionValue": 10
+}

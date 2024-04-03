@@ -1,0 +1,17 @@
+{
+  "clientId": "clientid",
+  "currency": "EGP",
+  "description": "transaction description",
+  "interchangeAction": "Credit",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "receiverMsisdn": "walletnumber",
+  "senderAddress": "Sender Address",
+  "senderMsisdn": "00201006289574",
+  "senderName": "Mary Safwat",
+  "senderScheme": "Cashati",
+  "transactionId": "transactionid",
+  "transactionReference": "121111",
+  "transactionTimestamp": "TrxTimeStamp",
+  "value": 10
+}

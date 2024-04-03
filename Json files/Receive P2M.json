@@ -1,0 +1,23 @@
+{
+  "clientId": "CLIENTID",
+  "description": "transaction description",
+  "interchangeAction": "CREDIT",
+  "interchangeCurrency": "EGP",
+  "interchangeValue":1,
+  "receiverMerchantId": "123200001",
+  "reference1": "#01121243435436",
+  "reference2": "#0403090",
+  "senderAddress": "Shobra",
+  "senderMsisdn": "walletNumber",
+  "senderName": "Mary Safwat",
+  "senderScheme": "Cashati",
+  "transactionCurrency": "EGP",
+  "transactionId": "TRXID",
+  "transactionReference": "4545",
+  "transactionTimestamp": "TIMESTMP",
+  "transactionValue": 110,
+  "tipsValue": 5.0,
+  "tipsCurrency": "EGP",
+  "convenienceFeeValue": 10,
+  "convenienceFeeCurrency": "EGP"
+}

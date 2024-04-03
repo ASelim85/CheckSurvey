@@ -1,0 +1,22 @@
+{
+    "adviceId":"ADVICEID",
+    "clientId":"CLIENTID",
+    "responseCode": "00000",
+    "responseDescription": "Approved Or Completed Successfully",
+    "receiverName": "H&M",
+    "receiverAddress": "El Sheikh Zayed",
+    "receiverScheme": "Vodafone Cash",
+    "interchangeValue": "1",
+    "interchangeCurrency": "EGP",
+    "interchangeAction": "CREDIT",
+    "receiverMerchantId": "123200001",
+    "senderAddress": "El Sheikh Zayed",
+    "senderMsisdn": "walletNumber",
+    "senderName": "Hala Aziz",
+    "transactionValue":110.0,
+    "tipsValue":5.0,
+    "tipsCurrency": "EGP",
+    "transactionTimestamp":"TIMESTMP",
+    "transactionCurrency":"EGP",
+    "description": "transaction description"
+}

@@ -1,0 +1,16 @@
+{
+  "terminalId": "1qasw2",
+  "clientId": "clientid",
+  "interchangeAction": "CREDIT",
+  "interchangeCurrency": "EGP",
+  "interchangeValue": 1,
+  "transactionId":"transactionid",
+  "originalTransactionId": "meezacashouttranid",
+  "senderScheme": "AxisPay",
+  "senderId":"senderid",
+  "transactionCurrency": "EGP",
+  "description": "money",
+  "transactionReference": "1435",
+  "transactionTimestamp": "TrxTimeStamp",
+  "transactionValue": 10
+}

@@ -1,0 +1,11 @@
+{
+    "requestTimestamp":"TrxTimeStamp",
+    "mPin":"123457",
+    "transactionAmount":"10",
+    "transactionCurrency":"EGP",
+    "description":"test",
+    "receiverId":"00201008855588",
+    "transactionChannel":"TransactionChannels_AGENT",
+    "extRefNum":"12345"
+
+}

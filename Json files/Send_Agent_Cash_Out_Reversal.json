@@ -1,0 +1,16 @@
+{
+  "interchangeValue":2,
+  "interchangeCurrency":"EGP",
+  "interchangeAction":"Debit",
+  "mpin": "123457",
+  "originalTransactionId": "ORGTRXID",
+  "receiverId": "WALLETNUMBER",
+  "senderAgentId": "123100001",
+  "terminalId": "1qWSDS5",
+  "transactionAmount": 20,
+  "transactionChannel": "TransactionChannels_AGENT",
+  "transactionCurrency": "EGP",
+  "transactionDescription": "Cash Out Reversal",
+  "transactionReference": "CashOutTrxRef",
+  "transactionTimeStamp": "ReqTimeStmp"
+}
